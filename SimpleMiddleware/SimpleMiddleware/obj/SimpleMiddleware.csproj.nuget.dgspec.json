@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dice/RiderProjects/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj": {}
+    "/home/dice/RiderProjects/Middlewares/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj": {}
   },
   "projects": {
-    "/home/dice/RiderProjects/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj": {
+    "/home/dice/RiderProjects/Middlewares/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dice/RiderProjects/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj",
+        "projectUniqueName": "/home/dice/RiderProjects/Middlewares/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj",
         "projectName": "SimpleMiddleware",
-        "projectPath": "/home/dice/RiderProjects/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj",
+        "projectPath": "/home/dice/RiderProjects/Middlewares/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj",
         "packagesPath": "/home/dice/.nuget/packages/",
-        "outputPath": "/home/dice/RiderProjects/SimpleMiddleware/SimpleMiddleware/obj/",
+        "outputPath": "/home/dice/RiderProjects/Middlewares/SimpleMiddleware/SimpleMiddleware/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dice/.nuget/NuGet/NuGet.Config"

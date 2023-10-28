@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j18ON83q8HPEDznhOOSAya0l8e7fkle/MrEU2aK3SqIy0DwEWRfTrcK26MdAeCi6ZUe0rRwQXJSw4B1xH6dPRA==",
+  "dgSpecHash": "9lGTGcfUekU4705qUOgpn4Kjc7kCLWWhesue5/Rm3LlofrhCtAApLEms2rVi/v7AoasAn83oF9sfYVIwCvEizw==",
   "success": true,
-  "projectFilePath": "/home/dice/RiderProjects/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj",
+  "projectFilePath": "/home/dice/RiderProjects/Middlewares/SimpleMiddleware/SimpleMiddleware/SimpleMiddleware.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
